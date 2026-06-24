@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LebohangNkhahle
 - 👀 I’m interested in data modelling and visualization 
 - 🌱 I’m currently learning data science through a bootcamp 
-- 💞️ I’m looking to collaborate on analysing credit data to find alternate methods of scoring. 
+- 💞️ I’m looking to collaborate on analysing data to find alternate methods of scoring. 
 - 📫 How to reach me lnkhahle@hotmail.com
 
 <!---
